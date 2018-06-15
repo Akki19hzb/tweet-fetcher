@@ -3,10 +3,10 @@ import csv, sys
 import os.path,time
 # Fill the X's with the credentials obtained by
 # following the above mentioned procedure.
-consumer_key = "sSQP5PVBS7J9dYlNIlOJZUHEl"
-consumer_secret = "5rec9aHRnSPXhVmkv3HAbnUKaFm5eeEPMyQmWvNotTEoUrQn6S"
-access_key = "284617609-wVPtfT8fysUOMw04anf2dGAAI4puTFR0kSKqkhU0"
-access_secret = "XKmniYsU7KX0AsZsNfGb8GaZZULCbkYMcI5ejCpRMuR3a"
+consumer_key = "******************"
+consumer_secret = "*******************"
+access_key = "************************"
+access_secret = "******************************"
 
 class ReturnStatus:
         Successful=False
